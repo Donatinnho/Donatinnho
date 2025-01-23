@@ -1,6 +1,8 @@
 [![2sq1mQ4.png](https://iili.io/2sq1mQ4.png)](https://freeimage.host/br)
 # Olá, eu sou o Donatinnho! 👋
-Gosto de jogar bola e tatuar no tempo livre,
+Tenho 21 anos, curso Desenvolvimento de Sistemas no Senai Mariano Ferraz, e Engenharia Mecânica na São Judas Tadeu, gosto de jogar bola, desenhar e tatuar no tempo livre.
+
+
 
 ## 🔗 Links
 [![instagram](https://img.shields.io/badge/instagram-b09be4?style=for-the-badge&logo=instagramlogoColor=black)](https://www.instagram.com/donatinnho/)
