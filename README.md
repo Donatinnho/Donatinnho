@@ -3,7 +3,7 @@
 Gosto de jogar bola e tatuar no tempo livre,
 
 ## 🔗 Links
-[![instagram](https://img.shields.io/badge/instagram-b09be4?style=for-the-badge&logo=instagramlogoColor=black)](https://www.instagram.com/donatinnho)
+[![instagram](https://img.shields.io/badge/instagram-b09be4?style=for-the-badge&logo=instagramlogoColor=black)](https://www.instagram.com/donatinnho/)
 
 [![linkedin](https://img.shields.io/badge/linkedin-b09be4?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/lucasdonato27/)
 
