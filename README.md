@@ -11,7 +11,7 @@ Tenho 21 anos, curso Desenvolvimento de Sistemas no Senai Mariano Ferraz, e Enge
 
 ##
 <div>
-Loanding Snake Status
+SNAKE
 </div>
 <div>
   <picture align="center">    
